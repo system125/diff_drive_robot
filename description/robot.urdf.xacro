@@ -6,4 +6,6 @@
     <xacro:include filename="left_wheel.xacro"/>
     <xacro:include filename="right_wheel.xacro"/>
     <xacro:include filename="caster_wheel.xacro"/>
+
+    <xacro:include filename="gazebo_control.xacro"/>
 </robot>
